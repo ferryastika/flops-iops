@@ -1,5 +1,5 @@
 # BenchUtil
-CPU Benchmarking Tool by calculating IOPS and FLOPS.
+Program untuk mengukur Kemampuan CPU dalam satuan IOPS and FLOPS.
 
 ## Build Binaries
 ```fish
@@ -29,13 +29,7 @@ CPU Benchmarking Tool by calculating IOPS and FLOPS.
   $ flops64 $(nproc)
 ```
 
-## Benchmark Results!!
-Hey, if you used this tool to benchmark your processor's raw IOPS and FLOPS you can add it here by a Pull Request!
-You PR your test results for different devices, diversity is great! 
-
 ---
-### user: [shaswata56](https://github.com/shaswata56)
-
 ### CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
 
 ```
